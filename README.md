@@ -20,11 +20,3 @@ This project analyzes LEGO set pricing data to understand what drives value and 
 
 ## Article
 For a detailed analysis and discussion of findings, check out my article: 
-
-## Project Structure
-```
-├── data/               # Raw and processed data files
-├── analysis/           # R scripts for data analysis
-├── visualizations/     # Generated plots and figures
-└── README.md          # Project documentation
-```
