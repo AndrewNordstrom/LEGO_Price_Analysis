@@ -1,5 +1,3 @@
-I'll help you create a clear, informative README that showcases your analysis. Here's a suggested structure:
-
 # LEGO Price Analysis
 
 Analysis of 1,167 LEGO set prices to find value patterns across age ranges, sizes, and price brackets.
