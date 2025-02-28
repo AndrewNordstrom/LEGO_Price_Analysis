@@ -19,4 +19,4 @@ This project analyzes LEGO set pricing data to understand what drives value and 
 - Statistical analysis includes Shapiro-Wilk test for distribution normality
 
 ## Article
-For a detailed analysis and discussion of findings, check out my article: 
+For a detailed analysis and discussion of findings, check out my article: https://medium.com/@andrewnord/what-makes-some-lego-sets-better-value-than-others-41fb77d1a176
